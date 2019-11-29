@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vnexpress>
+    <hotnew>
+
+    </hotnew>
+    <list_news>
+        <news>
+            <title>Ba học sinh rơi xuống đường khi ôtô đang chạy</title>
+            <link>https://vnexpress.net/</link>
+        </news>
+        <news>
+            <title>Ba học sinh rơi xuống đường khi ôtô đang chạy</title>
+            <link>https://vnexpress.net/</link>
+        </news>
+        <news>
+            <title>Ba học sinh rơi xuống đường khi ôtô đang chạy</title>
+            <link>https://vnexpress.net/</link>
+        </news>
+    </list_news>
+    <body>
+        <body_left>
+            <body_news>
+                <title>TP HCM thu hồi 852 tỷ đồng sai phạm</title>
+                <descrip>852 tỷ đồng được thu hồi sau 134 cuộc thanh tra về kinh tế - xã hội,
+                    tổng cộng 777 tổ chức, cá nhân sai phạm và 13 vụ được chuyển cho cơ quan điều tra</descrip>
+                <link>https://vnexpress.net/</link>
+            </body_news>
+            <body_news>
+                <title>TP HCM thu hồi 852 tỷ đồng sai phạm</title>
+                <descrip>852 tỷ đồng được thu hồi sau 134 cuộc thanh tra về kinh tế - xã hội,
+                    tổng cộng 777 tổ chức, cá nhân sai phạm và 13 vụ được chuyển cho cơ quan điều tra</descrip>
+                <link>https://vnexpress.net/</link>
+            </body_news>
+            <body_news>
+                <title>TP HCM thu hồi 852 tỷ đồng sai phạm</title>
+                <descrip>852 tỷ đồng được thu hồi sau 134 cuộc thanh tra về kinh tế - xã hội,
+                    tổng cộng 777 tổ chức, cá nhân sai phạm và 13 vụ được chuyển cho cơ quan điều tra</descrip>
+                <link>https://vnexpress.net/</link>
+            </body_news>
+        </body_left>
+        <body_center>
+            <category>
+                <cate_new>
+                    <title>Bản sắc Sài Gòn</title>
+                    <descrip>
+
+                    </descrip>
+                    <link></link>
+                </cate_new>
+            </category>
+        </body_center>
+        <body_right>
+            <ad></ad>
+        </body_right>
+    </body>
+</vnexpress>

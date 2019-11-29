@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<news>
+    <tags>
+        <current_tag>
+            Tin tức trong ngày
+        </current_tag>
+        <references_tags>
+            Tin Hà Nội
+        </references_tags>
+        <references_tags>
+            Tin TP.HCM
+        </references_tags>
+        <references_tags>
+            Tin thời tiết
+        </references_tags>
+    </tags>
+    <head_line>
+        <link>
+            Vụ 39 ....
+        </link>
+        <video>
+            ...
+        </video>
+        <descr>
+            Đại sứ Anh tại Việt Nam cho biết....
+        </descr>
+        <refer_news>
+            39 công nhân chết trong....
+        </refer_news>
+    </head_line>
+    <list_news>
+        <news>
+            <link>
+                Nguyên phó ....
+            </link>
+        </news>
+        <news>
+            <link>
+                2 xe tải ....
+            </link>
+        </news>
+        <news>
+            <link>
+                Vụ 3 học sinh ....
+            </link>
+        </news>
+        <news>
+            <link>
+                Nga ....
+            </link>
+        </news>
+    </list_news>
+</news>
